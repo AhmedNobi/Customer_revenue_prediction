@@ -6,7 +6,7 @@ To use the project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed in requirements.txt. You can do this using pip by running pip install -r requirements.txt.
-3. Download the dataset from [https://www.kaggle.com/c/ga-customer-revenue-prediction/data] Kaggle and place it in the data folder.
+3. Download the dataset from [https://www.kaggle.com/c/ga-customer-revenue-prediction/data] (Kaggle) and place it in the data folder.
 4. Run the main.py file to train the model and generate predictions.
 # Dataset
 The dataset used in this project is the Google Analytics Customer Revenue Prediction dataset from Kaggle. It contains anonymized information about customers' website activity, demographic information, and transaction history. The dataset is split into a training set and a test set, with the goal being to predict the natural logarithm of the sum of all transactions per user.
